@@ -1,0 +1,5 @@
+setup.py
+deadlock_detector.egg-info/PKG-INFO
+deadlock_detector.egg-info/SOURCES.txt
+deadlock_detector.egg-info/dependency_links.txt
+deadlock_detector.egg-info/top_level.txt

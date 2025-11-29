@@ -1,0 +1,9 @@
+# Requirements for Automated Deadlock Detector
+#
+# This project uses Python's standard library only and has no external runtime
+# dependencies that need to be installed via pip. The project is tested on
+# Python 3.8+ and uses modules like `tkinter` (available in the standard
+# library on most Python distributions).
+#
+# If you add third party packages later, list them here so users can run
+# `pip install -r requirements.txt`.
